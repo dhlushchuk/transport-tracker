@@ -1,0 +1,102 @@
+[
+  {
+    "id": 2673478,
+    "name": "Leanne Graham",
+    "phone": "1-770-736-8031 x56442",
+    "category": "cargo",
+    "position": {
+      "latitude": 55.781875,
+      "longitude": 37.670533
+    }
+  },
+  {
+    "id": 567324,
+    "name": "Ervin Howell",
+    "phone": "010-692-6593 x09125",
+    "category": "special",
+    "position": {
+      "latitude": 55.767863,
+      "longitude": 37.593696
+    }
+  },
+  {
+    "id": 234,
+    "name": "Clementine Bauch",
+    "phone": "1-463-123-4447",
+    "category": "passenger",
+    "position": {
+      "latitude": 55.760057,
+      "longitude": 37.611177
+    }
+  },
+  {
+    "id": 678345,
+    "name": "Patricia Lebsack",
+    "phone": "493-170-9623 x156",
+    "category": "special",
+    "position": {
+      "latitude": 55.711446,
+      "longitude": 37.611982
+    }
+  },
+  {
+    "id": 32,
+    "name": "Chelsey Dietrich",
+    "phone": "(254)954-1289",
+    "category": "passenger",
+    "position": {
+      "latitude": 55.697084,
+      "longitude": 37.561442
+    }
+  },
+  {
+    "id": 945608734,
+    "name": "Mrs. Dennis Schulist",
+    "phone": "1-477-935-8478 x6430",
+    "category": "cargo",
+    "position": {
+      "latitude": 55.723389,
+      "longitude": 37.796895
+    }
+  },
+  {
+    "id": 71,
+    "name": "Kurtis Weissnat",
+    "phone": "210.067.6132",
+    "category": "passenger",
+    "position": {
+      "latitude": 55.809794,
+      "longitude": 37.785329
+    }
+  },
+  {
+    "id": 84562,
+    "name": "Maxime Nienow",
+    "phone": "586.493.6943 x140",
+    "category": "cargo",
+    "position": {
+      "latitude": 55.680031,
+      "longitude": 37.533756
+    }
+  },
+  {
+    "id": 99123045,
+    "name": "Glenna Reichert",
+    "phone": "(775)976-6794 x41206",
+    "category": "special",
+    "position": {
+      "latitude": 55.70298,
+      "longitude": 37.480327
+    }
+  },
+  {
+    "id": 10,
+    "name": "Clementina DuBuque",
+    "phone": "024-648-3804",
+    "category": "passenger",
+    "position": {
+      "latitude": 55.775572,
+      "longitude": 37.475115
+    }
+  }
+]

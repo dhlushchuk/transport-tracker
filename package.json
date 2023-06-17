@@ -1,6 +1,7 @@
 {
   "name": "transport-tracker",
   "version": "1.0.0",
+  "author": "hlushchuk.dzmitry@gmail.com",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
@@ -9,10 +10,25 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-picker/picker": "2.4.8",
+    "@react-navigation/bottom-tabs": "^6.5.7",
+    "@react-navigation/native": "^6.1.6",
+    "@react-navigation/native-stack": "^6.9.12",
+    "@reduxjs/toolkit": "^1.9.5",
     "expo": "~48.0.18",
     "expo-status-bar": "~1.4.4",
+    "i18next": "^23.0.2",
     "react": "18.2.0",
-    "react-native": "0.71.8"
+    "react-i18next": "^13.0.0",
+    "react-native": "0.71.8",
+    "react-native-maps": "1.3.2",
+    "react-native-picker-select": "^8.0.4",
+    "react-native-safe-area-context": "4.5.0",
+    "react-native-screens": "~3.20.0",
+    "react-redux": "^8.1.0",
+    "react-native-web": "~0.18.10",
+    "react-dom": "18.2.0",
+    "@expo/webpack-config": "^18.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",

@@ -1,0 +1,37 @@
+{
+  "list": {
+    "title": "List",
+    "submitButton": "Submit",
+    "vehicle": "Vehicle",
+    "name": "Name",
+    "category": "Vehicle Category",
+    "picker": "Choose vehicle category"
+  },
+  "map": {
+    "title": "Map"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language"
+  },
+  "transport": {
+    "phone": "Phone",
+    "callButton": "Call",
+    "sendMessageButton": "Send Message"
+  },
+  "category": {
+    "cargo": "Cargo",
+    "special": "Special",
+    "passenger": "Passenger",
+    "unknown": "Unknown"
+  },
+  "whatsapp": {
+    "message": "Hello, please tell me what order number you currently have in work",
+    "alert": "Please make sure Whatsapp is installed on your device",
+    "error": "An error has occurred"
+  },
+  "notFound": {
+    "message": "Vehicle is not found",
+    "backButton": "Back to list"
+  }
+}
